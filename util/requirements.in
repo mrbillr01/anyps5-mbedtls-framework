@@ -1,0 +1,5 @@
+# Python module requirements for maintainer utilities
+
+# For generate_mldsa_tests.py
+pycryptodome
+dilithium-py==1.5.1; python_version >= "3.9"
